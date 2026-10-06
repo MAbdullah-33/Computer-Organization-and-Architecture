@@ -1,0 +1,41 @@
+module MUX(A,B,S,Y);
+
+input A;
+input B;
+input S;
+
+output reg Y;
+
+always @*
+
+begin
+if (S == 0)
+   Y = A & B ; 
+else
+   Y = A | B ; 
+end
+
+endmodule 
+
+module testbench_MUX();
+
+reg A;
+reg B;
+reg S;
+
+wire Y;
+
+MUX uut(.A(A), .B(B), .S(S), .Y(Y));
+
+initial 
+begin
+A = 0; B = 1; S = 0;
+#10;
+A = 0; B = 1; S = 1;
+#10;
+A = 1; B = 1; S = 0;
+#10;
+A = 1; B = 1; S = 1;
+#10;
+end
+endmodule 
