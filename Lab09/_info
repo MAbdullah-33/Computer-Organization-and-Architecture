@@ -1,0 +1,262 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/University/5th Semester/COA Lab/LABS
+vdecoder5_32
+Z1 !s110 1793026621
+!i10b 1
+!s100 3=S>U34m4UiD5Q0Uh?[kM1
+IIXEUKMAo>f4BME2GBnc4E1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1793025750
+Z4 8D:/University/5th Semester/COA Lab/LABS/Lab09/task 02.v
+Z5 FD:/University/5th Semester/COA Lab/LABS/Lab09/task 02.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1793026621.000000
+Z8 !s107 D:/University/5th Semester/COA Lab/LABS/Lab09/task 02.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/University/5th Semester/COA Lab/LABS/Lab09/task 02.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vdecoder_2_to4
+Z12 !s110 1793026798
+!i10b 1
+!s100 fjHGi^Qi9]BR8j0RP8fVD1
+I=SU==?n:n]LQii3A[Z^[e0
+R2
+R0
+Z13 w1793024167
+Z14 8D:/University/5th Semester/COA Lab/LABS/Lab09/Task 01 .v
+Z15 FD:/University/5th Semester/COA Lab/LABS/Lab09/Task 01 .v
+L0 1
+R6
+r1
+!s85 0
+31
+Z16 !s108 1793026798.000000
+Z17 !s107 D:/University/5th Semester/COA Lab/LABS/Lab09/Task 01 .v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|D:/University/5th Semester/COA Lab/LABS/Lab09/Task 01 .v|
+!i113 1
+R10
+R11
+vmux32_1
+R1
+!i10b 1
+!s100 16;DV6_ffgWEl;AXD8E2]0
+I=b]2U=NZ;KCO<n_XEWa<71
+R2
+R0
+R3
+R4
+R5
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux4_1
+R12
+!i10b 1
+!s100 zX?DVh1FX4KJUZ1a^64c<0
+I1K5Y[EN=1`3FPM5kFF_hZ3
+R2
+R0
+R13
+R14
+R15
+L0 20
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+vregister_32bit
+R1
+!i10b 1
+!s100 `M8mFA>Oc6dc_;TK5O5fb1
+IXTVLQ6WUAX0US=?6CodHk0
+R2
+R0
+R3
+R4
+R5
+L0 45
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vregister_4bit
+R12
+!i10b 1
+!s100 NM0RS^e`I8P`F0a0:KAK]0
+IIObj=M:Dn3f@2l967AcZF3
+R2
+R0
+R13
+R14
+R15
+L0 35
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+vregister_file_32x32
+R1
+!i10b 1
+!s100 3c@PECH_XDnNFcRO<XYUb3
+IiLShLW8MJ7MgjeP6l8HSF1
+R2
+R0
+R3
+R4
+R5
+L0 55
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vregister_file_4x4
+R12
+!i10b 1
+!s100 GB^D?22FmD3>QWLA0JnAJ3
+IOcjaJf3gNgjEH^fR>Th4z3
+R2
+R0
+R13
+R14
+R15
+L0 42
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+vtb
+!s110 1793024121
+!i10b 1
+!s100 IeQ:0lQ8N8j20X@bIBX7W3
+IM_YF0=AN^Y]immi40PRJD0
+R2
+R0
+w1793024116
+Z19 8D:/University/5th Semester/COA Lab/LABS/Task 01 .v
+Z20 FD:/University/5th Semester/COA Lab/LABS/Task 01 .v
+Z21 L0 60
+R6
+r1
+!s85 0
+31
+!s108 1793024121.000000
+Z22 !s107 D:/University/5th Semester/COA Lab/LABS/Task 01 .v|
+Z23 !s90 -reportprogress|300|-work|Lab09|-stats=none|D:/University/5th Semester/COA Lab/LABS/Task 01 .v|
+!i113 1
+Z24 o-work Lab09
+R11
+vtb1
+R12
+!i10b 1
+!s100 5b;0bZJX]372Y@<;@Jai;2
+IRd^Bjz_ij3d8aTfDaFzoB1
+R2
+R0
+R13
+R14
+R15
+R21
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+vtb3
+R1
+!i10b 1
+!s100 ZNhWzh873C4VIPmz<36f`3
+I53BDFoe<S?<1XMCZbEL_`1
+R2
+R0
+R3
+R4
+R5
+L0 75
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_register_file_4x4
+!s110 1792481050
+!i10b 1
+!s100 09P2OfPI4G?Yid@;;C;5H1
+IG?=0G5V0gjnSDBDUXPoTE1
+R2
+R0
+w1792481044
+R19
+R20
+L0 83
+R6
+r1
+!s85 0
+31
+!s108 1792481050.000000
+R22
+R23
+!i113 1
+R24
+R11
